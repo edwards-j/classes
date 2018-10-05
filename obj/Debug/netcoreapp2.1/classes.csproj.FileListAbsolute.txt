@@ -1,0 +1,11 @@
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.deps.json
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.runtimeconfig.json
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.runtimeconfig.dev.json
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.dll
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.1/classes.pdb
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.csprojAssemblyReference.cache
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.csproj.CoreCompileInputs.cache
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfoInputs.cache
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfo.cs
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.dll
+/Users/jonathan_edwards/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.1/classes.pdb
